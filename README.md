@@ -4,11 +4,11 @@ Soy estudiante de Ingeniería de Sistemas (8.º ciclo) en la Universidad César 
 
 ## Proyectos
 
-Las demostraciones :´)
+Enlaces a los proyectos originales. La app de Bioasistencia requiere revisar su despliegue actual; la app de Clínica Versalles abre su pantalla de acceso.
 
-- **Bioasistencia:** sistema académico de control de asistencia con Angular y Supabase. La demo presenta una simulación sin cámara ni biometría. [Código](https://github.com/PCAdiel/bioasistencia) · [Demostración](https://bioasistencia-demo.vercel.app/)
-- **Gestión de citas clínicas:** proyecto académico para organizar citas y procesos de atención, desarrollado con Ionic, Angular y Supabase. [Código](https://github.com/PCAdiel/clinica-versalles-portafolio) · [Demostración](https://clinica-versalles-demo.vercel.app/)
-- **Punto de venta e inventario:** aplicación académica para ventas, inventario y caja con Ionic, Angular y Supabase. La demo usa productos ficticios. [Código](https://github.com/PCAdiel/distribuidora-pos-portafolio) · [Demostración](https://distribuidora-mariva-demo.vercel.app/)
+- **Bioasistencia:** sistema académico de control de asistencia desarrollado con Angular y Supabase. [Código](https://github.com/PCAdiel/bioasistencia) · [Vercel (requiere revisión)](https://bioasistencia.vercel.app/)
+- **Gestión de citas clínicas:** proyecto académico para organizar citas y procesos de atención, desarrollado con Ionic, Angular y Supabase. [Código](https://github.com/PCAdiel/clinica-versalles-portafolio) · [Aplicación en Vercel (solicita acceso)](https://clinica-versalles.vercel.app/home)
+- **Punto de venta e inventario:** aplicación académica para ventas, inventario y caja con Ionic, Angular y Supabase. [Código](https://github.com/PCAdiel/distribuidora-pos-portafolio)
 
 ## Áreas y herramientas
 
