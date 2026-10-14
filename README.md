@@ -4,9 +4,11 @@ Soy estudiante de Ingeniería de Sistemas (8.º ciclo) en la Universidad César 
 
 ## Proyectos
 
-- **[Bioasistencia](https://github.com/PCAdiel/bioasistencia):** proyecto académico de gestión de asistencia biométrica desarrollado con Angular y Supabase. [Ver demostración](https://bioasistencia.vercel.app/).
-- **[Sistema de gestión de citas clínicas](https://github.com/PCAdiel/clinica-versalles-portafolio):** proyecto académico para gestionar citas y procesos de atención clínica, desarrollado con Ionic, Angular y Supabase.
-- **[Punto de venta e inventario](https://github.com/PCAdiel/distribuidora-pos-portafolio):** aplicación académica para ventas, inventario y caja, desarrollada con Ionic, Angular y Supabase.
+Las demostraciones usan datos ficticios y simulan interacciones en el navegador; no ejecutan operaciones reales.
+
+- **Bioasistencia:** sistema académico de control de asistencia con Angular y Supabase. La demo presenta una simulación sin cámara ni biometría. [Código](https://github.com/PCAdiel/bioasistencia) · [Demostración](https://bioasistencia-demo.vercel.app/)
+- **Gestión de citas clínicas:** proyecto académico para organizar citas y procesos de atención, desarrollado con Ionic, Angular y Supabase. [Código](https://github.com/PCAdiel/clinica-versalles-portafolio) · [Demostración](https://clinica-versalles-demo.vercel.app/)
+- **Punto de venta e inventario:** aplicación académica para ventas, inventario y caja con Ionic, Angular y Supabase. La demo usa productos ficticios. [Código](https://github.com/PCAdiel/distribuidora-pos-portafolio) · [Demostración](https://distribuidora-mariva-demo.vercel.app/)
 
 ## Áreas y herramientas
 
